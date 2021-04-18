@@ -1,4 +1,4 @@
-let eval = {
+/*let eval = {
     name: 'evals',
     status: true,
     clue: ['Fungsi: evaluator', 'Format:\n <code>.eval [code untuk dieksekusi]</code>'],
@@ -22,3 +22,4 @@ let eval = {
 module.exports = {
 eval
 }
+*/
