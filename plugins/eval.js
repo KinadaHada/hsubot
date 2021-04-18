@@ -18,3 +18,7 @@ let eval = {
         }
     }
 }
+
+module.exports = {
+eval
+}
